@@ -206,16 +206,12 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 54,
+      "label": ","
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2085,
+      "label": "*"
     },
     {
       "keyCode": 36,
@@ -230,10 +226,8 @@
       "label": "9"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2099,
+      "label": ":"
     },
     {
       "keyCode": 0,
@@ -294,16 +288,12 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 55,
+      "label": "."
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2094,
+      "label": "+"
     },
     {
       "keyCode": 33,
@@ -318,10 +308,8 @@
       "label": "6"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 45,
+      "label": "-"
     },
     {
       "keyCode": 0,
@@ -390,10 +378,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2082,
+      "label": "%"
     },
     {
       "keyCode": 30,
@@ -408,10 +394,8 @@
       "label": "3"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 56,
+      "label": "/"
     },
     {
       "keyCode": 0,
@@ -492,26 +476,20 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 46,
+      "label": "="
     },
     {
       "keyCode": 39,
       "label": "0"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2102,
+      "label": "<"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2103,
+      "label": ">"
     }
   ],
   "colormap": [
@@ -558,29 +536,29 @@
     15,
     15,
     15,
-    15,
+    0,
+    0,
+    0,
     0,
     0,
     0,
     15,
-    15,
-    15,
-    15,
+    0,
+    0,
+    0,
     0,
     0,
     0,
     15,
-    15,
-    15,
-    15,
     0,
     0,
     0,
-    15,
-    15,
-    15,
     0,
-    15,
+    0,
+    0,
+    0,
+    0,
+    0,
     15,
     15,
     15,
