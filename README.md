@@ -5,7 +5,7 @@
 ### Base layer
 ![Base layer image](images/Colemak-DH.png)
 
-### Naviagtion layer
+### Navigation layer
 ![Navigation layer image](images/Navigation.png)
 
 ### Symbols layer
