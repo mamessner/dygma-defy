@@ -1,5 +1,7 @@
 # Dygma Defy keyboard layout
 
+Based on [sunaku's Glove80 layout](https://sunaku.github.io/moergo-glove80-keyboard.html#layers) but with fewer layers.
+
 ## Layers
 Color legend:
 * purple: letters
