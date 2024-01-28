@@ -33,3 +33,8 @@ Color legend:
 
 ### Numbers
 ![Numbers layer image](images/Numbers.png)
+
+### Mouse
+![Mouse layer image](images/Mouse.png)
+
+Mouse direction layout is notably different than the arrow key layout in the navigation layer. Might be weird.
