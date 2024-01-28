@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "name": "L5"
+      "name": "Mouse"
     },
     {
       "id": 5,
@@ -51,7 +51,7 @@
     },
     {
       "id": 9,
-      "name": "NoKey"
+      "name": "No key or color"
     }
   ],
   "keymap": [
@@ -470,14 +470,15 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 53856,
-      "label": "Selec",
-      "extraLabel": "MACRO"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 2122,
-      "label": "HOME",
-      "extraLabel": "S+"
+      "keyCode": 53980,
+      "label": "Selec",
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 0,
@@ -486,14 +487,14 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 2125,
-      "label": "END",
-      "extraLabel": "S+"
+      "keyCode": 53982,
+      "label": "Exten",
+      "extraLabel": "SUPER"
     },
     {
-      "keyCode": 53852,
+      "keyCode": 53981,
       "label": "Selec",
-      "extraLabel": "MACRO"
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 0,
@@ -577,7 +578,7 @@
     10,
     12,
     10,
-    10,
+    12,
     12,
     10,
     10,
@@ -774,16 +775,16 @@
       "rgb": "rgb(0, 0, 0)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 244,
+      "g": 151,
+      "b": 151,
+      "rgb": "rgb(244, 151, 151)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 202,
+      "g": 114,
+      "b": 255,
+      "rgb": "rgb(202, 114, 255)"
     }
   ]
 }

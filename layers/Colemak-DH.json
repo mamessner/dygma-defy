@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "name": "L5"
+      "name": "Mouse"
     },
     {
       "id": 5,
@@ -51,7 +51,7 @@
     },
     {
       "id": 9,
-      "name": "NoKey"
+      "name": "No key or color"
     }
   ],
   "keymap": [
@@ -362,9 +362,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 51772,
-      "label": "BACKSPACE",
-      "extraLabel": "L#3/"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 51772,
@@ -376,9 +377,8 @@
       "label": "ESC"
     },
     {
-      "keyCode": 49721,
-      "label": "ENTER",
-      "extraLabel": "ALT/"
+      "keyCode": 40,
+      "label": "ENTER"
     },
     {
       "keyCode": 17453,
@@ -408,15 +408,13 @@
       "extraLabel": "BATT."
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17454,
+      "label": "5",
+      "extraLabel": "SHIFT"
     },
     {
-      "keyCode": 49209,
-      "label": "ENTER",
-      "extraLabel": "CTRL/"
+      "keyCode": 40,
+      "label": "ENTER"
     },
     {
       "keyCode": 43,
@@ -428,9 +426,10 @@
       "extraLabel": "L#2/"
     },
     {
-      "keyCode": 51518,
-      "label": "SPACE",
-      "extraLabel": "L#2/"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -468,7 +467,7 @@
     8,
     8,
     12,
-    6,
+    12,
     6,
     6,
     6,
@@ -476,11 +475,11 @@
     12,
     12,
     12,
-    7,
     5,
     5,
     5,
     5,
+    5,
     7,
     12,
     7,
@@ -503,11 +502,11 @@
     8,
     8,
     12,
-    6,
-    6,
-    6,
-    6,
     12,
+    6,
+    6,
+    6,
+    6,
     6,
     6,
     8,
@@ -705,16 +704,16 @@
       "rgb": "rgb(0, 0, 0)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 244,
+      "g": 151,
+      "b": 151,
+      "rgb": "rgb(244, 151, 151)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 202,
+      "g": 114,
+      "b": 255,
+      "rgb": "rgb(202, 114, 255)"
     }
   ]
 }
