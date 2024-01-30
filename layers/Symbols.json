@@ -35,7 +35,7 @@
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "Function"
     },
     {
       "id": 6,
@@ -138,12 +138,12 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 2078,
-      "label": "!"
+      "keyCode": 2080,
+      "label": "#"
     },
     {
-      "keyCode": 53,
-      "label": "`"
+      "keyCode": 2078,
+      "label": "!"
     },
     {
       "keyCode": 52,
@@ -154,10 +154,6 @@
       "label": "\""
     },
     {
-      "keyCode": 2081,
-      "label": "$"
-    },
-    {
       "keyCode": 2104,
       "label": "?"
     },
@@ -166,10 +162,8 @@
       "label": "@"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2081,
+      "label": "$"
     },
     {
       "keyCode": 0,
@@ -220,8 +214,14 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 2080,
-      "label": "#"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 53,
+      "label": "`"
     },
     {
       "keyCode": 2095,
