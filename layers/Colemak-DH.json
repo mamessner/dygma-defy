@@ -35,7 +35,7 @@
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "Function"
     },
     {
       "id": 6,
@@ -373,16 +373,17 @@
       "extraLabel": "L#3/"
     },
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 52027,
+      "label": "ESC",
+      "extraLabel": "L#4/"
     },
     {
       "keyCode": 40,
       "label": "ENTER"
     },
     {
-      "keyCode": 17453,
-      "label": "4",
+      "keyCode": 17455,
+      "label": "6",
       "extraLabel": "SHIFT"
     },
     {
@@ -408,17 +409,19 @@
       "extraLabel": "BATT."
     },
     {
-      "keyCode": 17454,
-      "label": "5",
-      "extraLabel": "SHIFT"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 40,
       "label": "ENTER"
     },
     {
-      "keyCode": 43,
-      "label": "TAB"
+      "keyCode": 52285,
+      "label": "TAB",
+      "extraLabel": "L#5/"
     },
     {
       "keyCode": 51518,
@@ -506,7 +509,7 @@
     6,
     6,
     6,
-    6,
+    12,
     6,
     6,
     8,
