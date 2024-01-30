@@ -190,28 +190,20 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2086,
+      "label": "("
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 47,
+      "label": "["
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 48,
+      "label": "]"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2087,
+      "label": ")"
     },
     {
       "keyCode": 0,
@@ -268,6 +260,12 @@
       "verbose": "Disabled"
     },
     {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
       "keyCode": 42,
       "label": "BACKSPACE",
       "verbose": "Backspace"
@@ -283,12 +281,6 @@
     {
       "keyCode": 40,
       "label": "ENTER"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -345,6 +337,12 @@
       "verbose": "Disabled"
     },
     {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
       "keyCode": 76,
       "label": "DEL"
     },
@@ -352,12 +350,6 @@
       "keyCode": 2091,
       "label": "TAB",
       "extraLabel": "S+"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -508,9 +500,17 @@
     12,
     12,
     12,
+    7,
+    7,
+    7,
+    7,
     12,
     12,
     12,
+    6,
+    6,
+    6,
+    6,
     12,
     12,
     12,
@@ -518,15 +518,7 @@
     12,
     6,
     6,
-    6,
-    6,
     12,
-    12,
-    12,
-    12,
-    12,
-    6,
-    6,
     12,
     12,
     12,
