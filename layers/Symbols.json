@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "english",
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -236,10 +236,8 @@
       "label": "*"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2101,
+      "label": "~"
     },
     {
       "keyCode": 0,
@@ -477,7 +475,7 @@
     7,
     7,
     7,
-    12,
+    7,
     7,
     7,
     7,
